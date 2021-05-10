@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SaiPortfolio-FE/static/css/main.7c3ea6ea.chunk.css",
+    "main.js": "/SaiPortfolio-FE/static/js/main.8a30d043.chunk.js",
+    "main.js.map": "/SaiPortfolio-FE/static/js/main.8a30d043.chunk.js.map",
+    "runtime-main.js": "/SaiPortfolio-FE/static/js/runtime-main.65e8529f.js",
+    "runtime-main.js.map": "/SaiPortfolio-FE/static/js/runtime-main.65e8529f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/SaiPortfolio-FE/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.23fa7d5e.chunk.js": "/SaiPortfolio-FE/static/js/2.23fa7d5e.chunk.js",
+    "static/js/2.23fa7d5e.chunk.js.map": "/SaiPortfolio-FE/static/js/2.23fa7d5e.chunk.js.map",
+    "static/js/3.9667ac70.chunk.js": "/SaiPortfolio-FE/static/js/3.9667ac70.chunk.js",
+    "static/js/3.9667ac70.chunk.js.map": "/SaiPortfolio-FE/static/js/3.9667ac70.chunk.js.map",
+    "index.html": "/SaiPortfolio-FE/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/SaiPortfolio-FE/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7c3ea6ea.chunk.css.map": "/SaiPortfolio-FE/static/css/main.7c3ea6ea.chunk.css.map",
+    "static/js/2.23fa7d5e.chunk.js.LICENSE.txt": "/SaiPortfolio-FE/static/js/2.23fa7d5e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SaiPortfolio-FE/static/media/hero.fb4d4c29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65e8529f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.23fa7d5e.chunk.js",
+    "static/css/main.7c3ea6ea.chunk.css",
+    "static/js/main.8a30d043.chunk.js"
+  ]
+}
