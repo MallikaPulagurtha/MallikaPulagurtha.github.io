@@ -34,7 +34,7 @@ function Welcome() {
                 <section id="about" class="about">
                     <div class="container">
                         <div class="row">
-                            <div className="col col-lg-4 center"><img className="mypicture center center2" src="/mallika_photo.jpg" /></div>
+                            <div className="col col-lg-4 center"><img className="mypicture center center2" src={process.env.PUBLIC_URL + "./mallika_photo.jpg"} /></div>
                             <div className="col col-lg-8">
                                 <div class="d-flex align-items-stretch">
                                     <div class="content d-flex flex-column justify-content-center">
